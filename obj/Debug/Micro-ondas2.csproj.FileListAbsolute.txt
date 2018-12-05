@@ -1,7 +1,0 @@
-C:\Users\dell\source\repos\Micro-ondas2\Micro-ondas2\bin\Debug\Micro-ondas2.exe.config
-C:\Users\dell\source\repos\Micro-ondas2\Micro-ondas2\bin\Debug\Micro-ondas2.exe
-C:\Users\dell\source\repos\Micro-ondas2\Micro-ondas2\bin\Debug\Micro-ondas2.pdb
-C:\Users\dell\source\repos\Micro-ondas2\Micro-ondas2\obj\Debug\Micro-ondas2.csprojAssemblyReference.cache
-C:\Users\dell\source\repos\Micro-ondas2\Micro-ondas2\obj\Debug\Micro-ondas2.csproj.CoreCompileInputs.cache
-C:\Users\dell\source\repos\Micro-ondas2\Micro-ondas2\obj\Debug\Micro-ondas2.exe
-C:\Users\dell\source\repos\Micro-ondas2\Micro-ondas2\obj\Debug\Micro-ondas2.pdb
